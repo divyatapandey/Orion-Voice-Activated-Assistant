@@ -1,5 +1,5 @@
 
-**Orion: Voice-Activated Assistant**
+**Orion: Voice-Activated Assistant** \n
 Orion is a voice-activated personal assistant designed to make your tasks easier and faster. It can respond to your commands, provide the current date and time, open popular websites, and even play music. The project is written in Python and uses several libraries to enable speech recognition, text-to-speech, and browser control.
 
 **Features**
