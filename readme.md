@@ -11,11 +11,11 @@ Orion is a voice-activated personal assistant designed to make your tasks easier
 - Custom Responses: Orion will politely let you know if it doesn't understand a command.
 
 ## **Technologies Used**
-Python: Programming language used for the entire project.
-SpeechRecognition: For recognizing voice commands from the microphone.
-Pyttsx3: For converting text to speech.
-Webbrowser: To open websites directly in your browser.
-Datetime: To fetch the current date and time.
+- Python: Programming language used for the entire project.
+- SpeechRecognition: For recognizing voice commands from the microphone.
+- Pyttsx3: For converting text to speech.
+- Webbrowser: To open websites directly in your browser.
+- Datetime: To fetch the current date and time.
 
 ## **For setting up the project**
 1. 1.1 created a virtual environment using "python -m venv venv1" on terminal
