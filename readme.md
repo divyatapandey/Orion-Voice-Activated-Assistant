@@ -3,12 +3,12 @@
 Orion is a voice-activated personal assistant designed to make your tasks easier and faster. It can respond to your commands, provide the current date and time, open popular websites, and even play music. The project is written in Python and uses several libraries to enable speech recognition, text-to-speech, and browser control.
 
 ## **Features**
-Voice Commands: Activate Orion by saying "Orion" and give it a command.
-Text-to-Speech: Orion talks back to you with helpful responses.
-Open Websites: Quickly access Google, Facebook, LinkedIn, and more.
-Date and Time: Ask Orion for the current date or time.
-Music Playback: Play songs from a predefined library.
-Custom Responses: Orion will politely let you know if it doesn't understand a command.
+- Voice Commands: Activate Orion by saying "Orion" and give it a command.
+- Text-to-Speech: Orion talks back to you with helpful responses.
+- Open Websites: Quickly access Google, Facebook, LinkedIn, and more.
+- Date and Time: Ask Orion for the current date or time.
+- Music Playback: Play songs from a predefined library.
+- Custom Responses: Orion will politely let you know if it doesn't understand a command.
 
 ## **Technologies Used**
 Python: Programming language used for the entire project.
